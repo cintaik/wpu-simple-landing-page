@@ -1,3 +1,3 @@
 README.md
 
-* TEST Edit
+Ini adalah readme yang di-edit di repo cintaik. Thank you !
