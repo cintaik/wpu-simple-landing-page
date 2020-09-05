@@ -1,3 +1,5 @@
 README.md
 
-Ini adalah readme yang di-edit di repo cintaik. Thank you !
+Ini diubah branch dev1
+
+-dev1 heehhe
